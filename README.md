@@ -5,7 +5,7 @@ Nueva linea local y remoto
 
 otra mas remoto
 
-mas desde local masmas
+mas desde local
 
 cambio desde local
 
