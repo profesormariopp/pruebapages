@@ -3,7 +3,7 @@ Prueba de GitHub Pages
 
 Nueva linea 
 
-otra
+otra mas
 
 mas desde local
 
