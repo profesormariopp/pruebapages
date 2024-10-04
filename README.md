@@ -3,7 +3,7 @@ Prueba de GitHub Pages
 
 Nueva linea local y remoto
 
-otra mas
+otra mas remoto
 
 mas desde local masmas
 
