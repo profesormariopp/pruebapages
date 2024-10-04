@@ -1,7 +1,7 @@
 # pruebapages
 Prueba de GitHub Pages
 
-Nueva linea 
+Nueva linea local
 
 otra mas
 
